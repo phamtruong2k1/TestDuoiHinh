@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7ffa16531cb1c3343b1db28d4a53765e
+timeCreated: 1513329535
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fillunes ExtraBold
+  fontNames:
+  - Fillunes ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 101531404ed1e9048a39aba9b51f8eca, type: 3}
+  - {fileID: 12800000, guid: 0dbc49902d603a044804c9da6021d7d2, type: 3}
+  - {fileID: 12800000, guid: 3e4958c179904604c9ee665bf6a4eb7a, type: 3}
+  - {fileID: 12800000, guid: 05af394f1377e084ab1744c25cc6e5e5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bb7d7f9919398b14894305d5bc7e1f7d
+timeCreated: 1525681269
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eth90
+  fontNames:
+  - Eth90
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11617a9bc941eea4ba6651726a6c54d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

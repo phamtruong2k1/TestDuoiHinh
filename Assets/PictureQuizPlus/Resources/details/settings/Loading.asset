@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6443dff314a26b849971b14ceb0d5bf8, type: 3}
+  m_Name: Loading
+  m_EditorClassIdentifier: 
+  localizations:
+  - name: English
+    filename: english
+    messages:
+      defaultLoadingBarMessage: Loading...
+      startingMessage: Let's get started!
+      fileNotFoundMessage: One of the resources was not found.
+      unknownErrorMessage: Something went wrong.
+      errorPopupTitle: Unable to continue
+      errorPopupReload: Reload
+      errorPopupQuit: Quit
+      localizedLoadingSteps:
+      - type: 0
+        loadingMessage: Loading Settings...
+        errorMessage: Something went wrong while loading game settings.
+      - type: 1
+        loadingMessage: Loading Resources...
+        errorMessage: Something went wrong while loading resources.
+      - type: 2
+        loadingMessage: Loading Game Data...
+        errorMessage: Something went wrong while loading game data.
+      - type: 3
+        loadingMessage: Establishing Internet Connection...
+        errorMessage: Please check your internet connection and hit retry!
+      - type: 4
+        loadingMessage: Establishing Host Connection...
+        errorMessage: Something went wrong while establishing connection with the
+          game host.
+  - name: "Fran\xE7ais"
+    filename: french
+    messages:
+      defaultLoadingBarMessage: Loading...
+      startingMessage: Let's get started!
+      fileNotFoundMessage: One of the resources was not found.
+      unknownErrorMessage: Something went wrong.
+      errorPopupTitle: Unable to continue
+      errorPopupReload: Reload
+      errorPopupQuit: Quit
+      localizedLoadingSteps:
+      - type: 0
+        loadingMessage: Loading Settings...
+        errorMessage: Something went wrong while loading game settings.
+      - type: 1
+        loadingMessage: Loading Resources...
+        errorMessage: Something went wrong while loading resources.
+      - type: 2
+        loadingMessage: Loading Game Data...
+        errorMessage: Something went wrong while loading game data.
+      - type: 3
+        loadingMessage: Establishing Internet Connection...
+        errorMessage: Please check your internet connection and hit retry!
+      - type: 4
+        loadingMessage: Establishing Host Connection...
+        errorMessage: Something went wrong while establishing connection with the
+          game host.
+  - name: Deutsch
+    filename: deutsch
+    messages:
+      defaultLoadingBarMessage: Loading...
+      startingMessage: Let's get started!
+      fileNotFoundMessage: One of the resources was not found.
+      unknownErrorMessage: Something went wrong.
+      errorPopupTitle: Unable to continue
+      errorPopupReload: Reload
+      errorPopupQuit: Quit
+      localizedLoadingSteps:
+      - type: 0
+        loadingMessage: Loading Settings...
+        errorMessage: Something went wrong while loading game settings.
+      - type: 1
+        loadingMessage: Loading Resources...
+        errorMessage: Something went wrong while loading resources.
+      - type: 2
+        loadingMessage: Loading Game Data...
+        errorMessage: Something went wrong while loading game data.
+      - type: 3
+        loadingMessage: Establishing Internet Connection...
+        errorMessage: Please check your internet connection and hit retry!
+      - type: 4
+        loadingMessage: Establishing Host Connection...
+        errorMessage: Something went wrong while establishing connection with the
+          game host.
+  isContentStoredOnWebServer: 0
+  httpStorageUrl: https://ifelse3000.github.io/pqp-tutorial
+  checkInternetConnectionUrl: https://dns.google/
+  checkHostConnectionFile: index.html
+  remoteImagesExtension: png

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5cdb484fa3c0aa74bb2ae393b2c8bc68
+timeCreated: 1525681963
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digitex
+  fontNames:
+  - Digitex
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
